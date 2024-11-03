@@ -69,4 +69,5 @@ TaskFlow is more than just another task management app. It's your personal produ
 ### Here are some screenshoots of the project 
 #### Dashboard page ![image](https://github.com/user-attachments/assets/5e0709d1-16a1-4ed3-9625-dee029de5219)
 #### Tasks page ![image](https://github.com/user-attachments/assets/f7b216b3-078a-413b-adc9-590bf2f8fb23)
-#### Wellbeing page ![image](https://github.com/user-attachments/assets/204069b6-5f65-42a8-8c23-a0bfe57959a9)
+#### Wellbeing page ![image](https://github.com/user-attachments/assets/a14ac748-cfcd-4a05-a407-5bf0be54d240)
+
